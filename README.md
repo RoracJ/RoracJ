@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... mongodb
 - 💞️ I’m looking to collaborate on ... any interesting project!
 - 📫 How to reach me ... roracjohnson@gmail.com
-- ⚡ Fun fact: ... Im a husband and father of 3!
+- ⚡ Fun fact: ... I'm a husband and father of 3!
 
 <!---
 RoracJ/RoracJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
