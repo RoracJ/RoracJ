@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RoracJ
 - 👀 I’m interested in ... music, art, meditating, cooking, eating, coding, creating!
-- 🌱 I’m currently learning ... mongodb
 - 💞️ I’m looking to collaborate on ... any interesting project!
 - 📫 How to reach me ... roracjohnson@gmail.com
 - ⚡ Fun fact: ... I'm a husband and father of 3!
